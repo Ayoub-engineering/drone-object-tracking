@@ -38,7 +38,7 @@ The system consists of:
 
 ### Tracking System (GUI)
 
-![Tracking GUI](img/tracking_gui.png)
+![Tracking GUI](img/tracking_GUI.png)
 
 - Object selection via mouse interaction  
 - Real-time tracking with bounding box  
