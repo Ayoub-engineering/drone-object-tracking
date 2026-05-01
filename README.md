@@ -26,7 +26,7 @@ The selected object is tracked in real time using computer vision, and control s
 
 ### System Architecture
 
-![System Architecture](images/system_architecture.png)
+![System Architecture](img/system_architecture.png)
 
 The system consists of:
 - GUI for user interaction and object selection
@@ -38,7 +38,7 @@ The system consists of:
 
 ### Tracking System (GUI)
 
-![Tracking GUI](images/tracking_gui.png)
+![Tracking GUI](img/tracking_gui.png)
 
 - Object selection via mouse interaction  
 - Real-time tracking with bounding box  
@@ -61,11 +61,11 @@ This error is used to generate control commands for drone movement.
 
 Object tracking initialization:
 
-![Tracker Init](images/code_tracker_init.png)
+![Tracker Init](img/code_tracker_init.png)
 
 Bounding box correction logic:
 
-![BBox Logic](images/code_bbox_logic.png)
+![BBox Logic](img/code_bbox_logic.png)
 
 ---
 
